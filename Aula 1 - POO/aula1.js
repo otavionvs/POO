@@ -10,7 +10,7 @@ class Cliente {
 let cliente = new Cliente();
 
 cliente.nome = prompt("Digite o nome do cliente: ");
-cliente.idade = 35;
+cliente.idade = 20;
 cliente.cpf = "999.999.999-01"
 cliente.agencia = 101010;
 
