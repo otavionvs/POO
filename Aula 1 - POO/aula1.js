@@ -7,6 +7,7 @@ class Cliente {
     cpf;
     agencia;
 }
+//
 
 // Objeto que possui as informações da classe de forma individual
 let cliente = new Cliente();
